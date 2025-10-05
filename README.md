@@ -1,2 +1,3 @@
 # sample-pms
-asdasd
+First MERN APp
+
